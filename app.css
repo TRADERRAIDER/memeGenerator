@@ -1,0 +1,13 @@
+h1  {
+    font-family: fantasy;
+    font-size: 60px;
+}
+
+body {
+    margin: 10px;
+    background-color: rgb(195, 155, 155);
+}
+
+#memeland {
+    width: 269px;
+}
